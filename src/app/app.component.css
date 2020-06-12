@@ -1,0 +1,16 @@
+span {
+    color: rgb(241, 146, 2);
+}
+
+.toolbar span, .highlight-card span {
+    font-size: 1.5em;
+}
+
+.toolbar span {
+    color: rgb(236, 77, 236);
+    font-weight: bold;
+}
+
+.highlight-card span {
+    color: rgb(95, 224, 95);
+}
